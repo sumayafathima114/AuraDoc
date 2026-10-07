@@ -20,3 +20,5 @@ backend/models/
 *.egg-info/
 database/data/
 
+
+supabase/.temp/
